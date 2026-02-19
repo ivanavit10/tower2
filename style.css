@@ -31,8 +31,8 @@ a{color:inherit}
 .navrow{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap}
 .brand{display:flex; align-items:center; gap:10px; text-decoration:none}
 .mark{
-  width:44px;
-  height:44px;
+  width:30px;
+  height:30px;
   border-radius:16px;
   background: ...;
 }
