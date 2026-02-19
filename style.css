@@ -1,4 +1,4 @@
-
+s
 :root{
   --bg:#0b0f14;
   --text:#e6eef6;
@@ -34,6 +34,12 @@ a{color:inherit}
   width: 100%;
   height: 100%;
   object-fit: contain;
+  .mark img{
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
+  display: block;
+  margin: auto;
 }
 .brand strong{letter-spacing:.22em; font-size:13px}
 .brand span{display:block; font-size:12px; color:var(--muted); margin-top:2px}
