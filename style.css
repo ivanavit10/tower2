@@ -30,10 +30,11 @@ a{color:inherit}
 .container{max-width:var(--max); margin:0 auto; padding: 14px 18px}
 .navrow{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap}
 .brand{display:flex; align-items:center; gap:10px; text-decoration:none}
-.mark img{
-  width: 10%;
-  height: 10%;
-  object-fit: contain;
+.mark{
+  width:44px;
+  height:44px;
+  border-radius:16px;
+  background: ...;
 }
 .brand strong{letter-spacing:.22em; font-size:13px}
 .brand span{display:block; font-size:12px; color:var(--muted); margin-top:2px}
