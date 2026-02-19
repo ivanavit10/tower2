@@ -30,12 +30,6 @@ a{color:inherit}
 .container{max-width:var(--max); margin:0 auto; padding: 14px 18px}
 .navrow{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap}
 .brand{display:flex; align-items:center; gap:10px; text-decoration:none}
-.mark{
-  width:40px; height:40px; border-radius:14px;
-  background: linear-gradient(135deg, rgba(199,178,115,.95), rgba(255,255,255,.10));
-  border:1px solid rgba(199,178,115,.25);
-  display:grid; place-items:center;
-  color:#0b0f14; font-weight:900;
 .mark img{
   width: 100%;
   height: 100%;
